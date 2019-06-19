@@ -66,6 +66,11 @@
     <body>
         <div class="flex-center position-ref full-height">
             <h1>Hello!</h1>
+            <form>
+                <input />
+                <br>
+                <input />
+            </form>
         </div>
     </body>
 </html>
